@@ -2,6 +2,14 @@
 
 **A comprehensive veterinary practice management platform with AI-powered clinical decision support**
 
+<div>
+    <a href="https://www.loom.com/share/75ff0a9498da44b595399c9c1b383860">
+    </a>
+    <a href="https://www.loom.com/share/75ff0a9498da44b595399c9c1b383860">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/75ff0a9498da44b595399c9c1b383860-8a9129e79da3712c-full-play.gif#t=0.1">
+    </a>
+  </div>
+
 ## ✨ What's Included
 
 ### Core System (Vet Office Management)
