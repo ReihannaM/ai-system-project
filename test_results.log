@@ -1,0 +1,132 @@
+2026-04-19 23:26:14,006 - __main__ - INFO - Starting comprehensive test suite...
+2026-04-19 23:26:14,006 - __main__ - INFO - Running: test_import_modules
+2026-04-19 23:26:14,006 - __main__ - INFO - Running: test_clinic_creation
+2026-04-19 23:26:14,006 - __main__ - INFO - Running: test_rag_retrieval
+2026-04-19 23:26:14,006 - __main__ - INFO - Running: test_similar_cases
+2026-04-19 23:26:14,006 - __main__ - INFO - Running: test_safety_checks_allergies
+2026-04-19 23:26:14,006 - __main__ - INFO - Running: test_confidence_scoring
+2026-04-19 23:26:14,006 - __main__ - INFO - Running: test_logging_system
+2026-04-19 23:26:14,006 - test_module - INFO - Test info message
+2026-04-19 23:26:14,007 - test_module - WARNING - Test warning message
+2026-04-19 23:26:14,007 - test_module - ERROR - Test error message
+2026-04-19 23:26:14,007 - __main__ - INFO - Running: test_error_handling
+2026-04-19 23:26:14,008 - __main__ - INFO - Test Summary: 2/8 passed
+2026-04-19 23:26:14,008 - __main__ - INFO - System Confidence: 🔴 LOW (<75%)
+2026-04-19 23:26:14,008 - vet_ai_assistant - WARNING - ⚠️  Anthropic library not installed. AI features disabled.
+2026-04-19 23:26:14,008 - __main__ - INFO - Feature available: analyze_symptoms
+2026-04-19 23:26:14,008 - __main__ - INFO - Feature available: generate_appointment_notes
+2026-04-19 23:26:14,008 - __main__ - INFO - Feature available: check_drug_interactions
+2026-04-19 23:26:14,008 - __main__ - INFO - Feature available: recommend_followup
+2026-04-19 23:26:14,008 - __main__ - INFO - Feature available: estimate_cost
+2026-04-19 23:26:43,461 - __main__ - INFO - Starting comprehensive test suite...
+2026-04-19 23:26:43,461 - __main__ - INFO - Running: test_import_modules
+2026-04-19 23:26:43,461 - __main__ - INFO - Running: test_clinic_creation
+2026-04-19 23:26:43,461 - __main__ - INFO - Running: test_rag_retrieval
+2026-04-19 23:26:43,461 - __main__ - INFO - Running: test_similar_cases
+2026-04-19 23:26:43,461 - __main__ - INFO - Running: test_safety_checks_allergies
+2026-04-19 23:26:43,461 - __main__ - INFO - Running: test_confidence_scoring
+2026-04-19 23:26:43,461 - __main__ - INFO - Running: test_logging_system
+2026-04-19 23:26:43,461 - test_module - INFO - Test info message
+2026-04-19 23:26:43,461 - test_module - WARNING - Test warning message
+2026-04-19 23:26:43,461 - test_module - ERROR - Test error message
+2026-04-19 23:26:43,461 - __main__ - INFO - Running: test_error_handling
+2026-04-19 23:26:43,462 - __main__ - INFO - Test Summary: 2/8 passed
+2026-04-19 23:26:43,462 - __main__ - INFO - System Confidence: 🔴 LOW (<75%)
+2026-04-19 23:26:43,462 - vet_ai_assistant - WARNING - ⚠️  Anthropic library not installed. AI features disabled.
+2026-04-19 23:26:43,462 - __main__ - INFO - Feature available: analyze_symptoms
+2026-04-19 23:26:43,462 - __main__ - INFO - Feature available: generate_appointment_notes
+2026-04-19 23:26:43,462 - __main__ - INFO - Feature available: check_drug_interactions
+2026-04-19 23:26:43,462 - __main__ - INFO - Feature available: recommend_followup
+2026-04-19 23:26:43,462 - __main__ - INFO - Feature available: estimate_cost
+2026-04-19 23:27:06,925 - __main__ - INFO - Starting comprehensive test suite...
+2026-04-19 23:27:06,926 - __main__ - INFO - Running: test_import_modules
+2026-04-19 23:27:06,926 - __main__ - INFO - Running: test_clinic_creation
+2026-04-19 23:27:06,927 - __main__ - INFO - Running: test_rag_retrieval
+2026-04-19 23:27:06,927 - vet_ai_assistant - WARNING - ⚠️  Anthropic library not installed. AI features disabled.
+2026-04-19 23:27:06,927 - __main__ - INFO - Running: test_similar_cases
+2026-04-19 23:27:06,927 - vet_ai_assistant - WARNING - ⚠️  Anthropic library not installed. AI features disabled.
+2026-04-19 23:27:06,927 - __main__ - INFO - Running: test_safety_checks_allergies
+2026-04-19 23:27:06,927 - __main__ - INFO - Running: test_confidence_scoring
+2026-04-19 23:27:06,927 - __main__ - INFO - Running: test_logging_system
+2026-04-19 23:27:06,927 - test_module - INFO - Test info message
+2026-04-19 23:27:06,927 - test_module - WARNING - Test warning message
+2026-04-19 23:27:06,927 - test_module - ERROR - Test error message
+2026-04-19 23:27:06,927 - __main__ - INFO - Running: test_error_handling
+2026-04-19 23:27:06,927 - vet_ai_assistant - WARNING - ⚠️  Anthropic library not installed. AI features disabled.
+2026-04-19 23:27:06,927 - __main__ - INFO - Test Summary: 5/8 passed
+2026-04-19 23:27:06,927 - __main__ - INFO - System Confidence: 🔴 LOW (<75%)
+2026-04-19 23:27:06,927 - vet_ai_assistant - WARNING - ⚠️  Anthropic library not installed. AI features disabled.
+2026-04-19 23:27:06,927 - __main__ - INFO - Feature available: analyze_symptoms
+2026-04-19 23:27:06,927 - __main__ - INFO - Feature available: generate_appointment_notes
+2026-04-19 23:27:06,927 - __main__ - INFO - Feature available: check_drug_interactions
+2026-04-19 23:27:06,927 - __main__ - INFO - Feature available: recommend_followup
+2026-04-19 23:27:06,927 - __main__ - INFO - Feature available: estimate_cost
+2026-04-19 23:27:46,587 - __main__ - INFO - Starting comprehensive test suite...
+2026-04-19 23:27:46,587 - __main__ - INFO - Running: test_import_modules
+2026-04-19 23:27:46,587 - __main__ - INFO - Running: test_clinic_creation
+2026-04-19 23:27:46,587 - __main__ - INFO - Running: test_rag_retrieval
+2026-04-19 23:27:46,588 - vet_ai_assistant - WARNING - ⚠️  Anthropic library not installed. AI features disabled.
+2026-04-19 23:27:46,588 - __main__ - INFO - Running: test_similar_cases
+2026-04-19 23:27:46,588 - vet_ai_assistant - WARNING - ⚠️  Anthropic library not installed. AI features disabled.
+2026-04-19 23:27:46,588 - __main__ - INFO - Running: test_safety_checks_allergies
+2026-04-19 23:27:46,588 - __main__ - INFO - Running: test_confidence_scoring
+2026-04-19 23:27:46,588 - __main__ - INFO - Running: test_logging_system
+2026-04-19 23:27:46,588 - test_module - INFO - Test info message
+2026-04-19 23:27:46,588 - test_module - WARNING - Test warning message
+2026-04-19 23:27:46,588 - test_module - ERROR - Test error message
+2026-04-19 23:27:46,588 - __main__ - INFO - Running: test_error_handling
+2026-04-19 23:27:46,588 - vet_ai_assistant - WARNING - ⚠️  Anthropic library not installed. AI features disabled.
+2026-04-19 23:27:46,588 - __main__ - INFO - Test Summary: 8/8 passed
+2026-04-19 23:27:46,588 - __main__ - INFO - System Confidence: 🟢 VERY HIGH (100%)
+2026-04-19 23:27:46,588 - vet_ai_assistant - WARNING - ⚠️  Anthropic library not installed. AI features disabled.
+2026-04-19 23:27:46,588 - __main__ - INFO - Feature available: analyze_symptoms
+2026-04-19 23:27:46,588 - __main__ - INFO - Feature available: generate_appointment_notes
+2026-04-19 23:27:46,588 - __main__ - INFO - Feature available: check_drug_interactions
+2026-04-19 23:27:46,588 - __main__ - INFO - Feature available: recommend_followup
+2026-04-19 23:27:46,588 - __main__ - INFO - Feature available: estimate_cost
+2026-04-19 23:29:21,125 - __main__ - INFO - Starting comprehensive test suite...
+2026-04-19 23:29:21,125 - __main__ - INFO - Running: test_import_modules
+2026-04-19 23:29:21,125 - __main__ - INFO - Running: test_clinic_creation
+2026-04-19 23:29:21,125 - __main__ - INFO - Running: test_rag_retrieval
+2026-04-19 23:29:21,126 - vet_ai_assistant - WARNING - ⚠️  Anthropic library not installed. AI features disabled.
+2026-04-19 23:29:21,126 - __main__ - INFO - Running: test_similar_cases
+2026-04-19 23:29:21,126 - vet_ai_assistant - WARNING - ⚠️  Anthropic library not installed. AI features disabled.
+2026-04-19 23:29:21,126 - __main__ - INFO - Running: test_safety_checks_allergies
+2026-04-19 23:29:21,126 - __main__ - INFO - Running: test_confidence_scoring
+2026-04-19 23:29:21,126 - __main__ - INFO - Running: test_logging_system
+2026-04-19 23:29:21,126 - test_module - INFO - Test info message
+2026-04-19 23:29:21,126 - test_module - WARNING - Test warning message
+2026-04-19 23:29:21,126 - test_module - ERROR - Test error message
+2026-04-19 23:29:21,126 - __main__ - INFO - Running: test_error_handling
+2026-04-19 23:29:21,126 - vet_ai_assistant - WARNING - ⚠️  Anthropic library not installed. AI features disabled.
+2026-04-19 23:29:21,126 - __main__ - INFO - Test Summary: 8/8 passed
+2026-04-19 23:29:21,126 - __main__ - INFO - System Confidence: 🟢 VERY HIGH (100%)
+2026-04-19 23:29:21,126 - vet_ai_assistant - WARNING - ⚠️  Anthropic library not installed. AI features disabled.
+2026-04-19 23:29:21,126 - __main__ - INFO - Feature available: analyze_symptoms
+2026-04-19 23:29:21,126 - __main__ - INFO - Feature available: generate_appointment_notes
+2026-04-19 23:29:21,126 - __main__ - INFO - Feature available: check_drug_interactions
+2026-04-19 23:29:21,126 - __main__ - INFO - Feature available: recommend_followup
+2026-04-19 23:29:21,126 - __main__ - INFO - Feature available: estimate_cost
+2026-04-19 23:32:17,288 - __main__ - INFO - Starting comprehensive test suite...
+2026-04-19 23:32:17,288 - __main__ - INFO - Running: test_import_modules
+2026-04-19 23:32:17,288 - __main__ - INFO - Running: test_clinic_creation
+2026-04-19 23:32:17,288 - __main__ - INFO - Running: test_rag_retrieval
+2026-04-19 23:32:17,288 - vet_ai_assistant - WARNING - ⚠️  Anthropic library not installed. AI features disabled.
+2026-04-19 23:32:17,288 - __main__ - INFO - Running: test_similar_cases
+2026-04-19 23:32:17,288 - vet_ai_assistant - WARNING - ⚠️  Anthropic library not installed. AI features disabled.
+2026-04-19 23:32:17,288 - __main__ - INFO - Running: test_safety_checks_allergies
+2026-04-19 23:32:17,288 - __main__ - INFO - Running: test_confidence_scoring
+2026-04-19 23:32:17,288 - __main__ - INFO - Running: test_logging_system
+2026-04-19 23:32:17,288 - test_module - INFO - Test info message
+2026-04-19 23:32:17,288 - test_module - WARNING - Test warning message
+2026-04-19 23:32:17,288 - test_module - ERROR - Test error message
+2026-04-19 23:32:17,288 - __main__ - INFO - Running: test_error_handling
+2026-04-19 23:32:17,289 - vet_ai_assistant - WARNING - ⚠️  Anthropic library not installed. AI features disabled.
+2026-04-19 23:32:17,289 - __main__ - INFO - Test Summary: 8/8 passed
+2026-04-19 23:32:17,289 - __main__ - INFO - System Confidence: 🟢 VERY HIGH (100%)
+2026-04-19 23:32:17,289 - vet_ai_assistant - WARNING - ⚠️  Anthropic library not installed. AI features disabled.
+2026-04-19 23:32:17,289 - __main__ - INFO - Feature available: analyze_symptoms
+2026-04-19 23:32:17,289 - __main__ - INFO - Feature available: generate_appointment_notes
+2026-04-19 23:32:17,289 - __main__ - INFO - Feature available: check_drug_interactions
+2026-04-19 23:32:17,289 - __main__ - INFO - Feature available: recommend_followup
+2026-04-19 23:32:17,289 - __main__ - INFO - Feature available: estimate_cost
